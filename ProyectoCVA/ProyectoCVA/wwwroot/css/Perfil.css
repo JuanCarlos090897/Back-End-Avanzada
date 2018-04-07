@@ -1,0 +1,25 @@
+﻿* {
+    font-family: sans-serif;
+}
+
+body {
+    background: url(~/images/fondogris.jpg);
+    background-size: cover; /*para que se acomode a la pantalla*/
+    background-repeat: no-repeat;
+    background-attachment: fixed; /*esto es para que la imagen no se mueva*/
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    margin: 0 0 20px 0;
+    padding: 0;
+    font-size: 150%;
+    color: #111;
+    background-color: rgba(255,255,255,0.2);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.6);
+}
+
+table {
+    text-align: center;
+}

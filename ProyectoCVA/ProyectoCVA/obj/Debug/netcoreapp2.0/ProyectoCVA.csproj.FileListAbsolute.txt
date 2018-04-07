@@ -1,0 +1,11 @@
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\bin\Debug\netcoreapp2.0\ProyectoCVA.deps.json
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\bin\Debug\netcoreapp2.0\ProyectoCVA.runtimeconfig.json
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\bin\Debug\netcoreapp2.0\ProyectoCVA.runtimeconfig.dev.json
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\bin\Debug\netcoreapp2.0\ProyectoCVA.dll
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\bin\Debug\netcoreapp2.0\ProyectoCVA.pdb
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\obj\Debug\netcoreapp2.0\ProyectoCVA.csprojResolveAssemblyReference.cache
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\obj\Debug\netcoreapp2.0\ProyectoCVA.csproj.CoreCompileInputs.cache
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\obj\Debug\netcoreapp2.0\ProyectoCVA.AssemblyInfoInputs.cache
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\obj\Debug\netcoreapp2.0\ProyectoCVA.AssemblyInfo.cs
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\obj\Debug\netcoreapp2.0\ProyectoCVA.dll
+c:\users\personal\source\repos\ProyectoCVA\ProyectoCVA\obj\Debug\netcoreapp2.0\ProyectoCVA.pdb
